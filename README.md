@@ -1,5 +1,4 @@
-### Tom ![image](https://github.com/user-attachments/assets/b187c9f1-c607-41aa-806c-ab98934256b2)
-
+### <img src="https://raw.githubusercontent.com/your-username/your-repo/main/path/to/dragon.png" width="24" height="24" alt="red dragon"/>
 
 Languages & Frameworks: 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
