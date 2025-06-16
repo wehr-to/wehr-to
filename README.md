@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/your-username/your-repo/main/path/to/dragon.png" width="24" height="24" alt="red dragon"/>
+### <img src="https://raw.githubusercontent.com/wehr-to/wehr-to/main/path/to/dragon.png" width="24" height="24" alt="red dragon"/>
 
 Languages & Frameworks: 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
