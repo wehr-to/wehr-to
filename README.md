@@ -13,9 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django Icon" width="26px" style="padding-right:10px; vertical-align: middle;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Icon" width="80px" style="padding-right:10px; vertical-align: middle;" />
 
-<img src="https://img.shields.io/badge/Netskope-SASE%20Firewall-orange?style=flat-square&logo=cloudflare&logoColor=white" alt="Netskope Badge" />
-<img src="https://img.shields.io/badge/Cisco-Network%20Security-0c76e2?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Badge" />
-<img src="https://img.shields.io/badge/Wazuh-SIEM%20+%20XDR-005f99?style=flat-square&logo=splunk&logoColor=white" alt="Wazuh Badge" />
+<img src="https://img.shields.io/badge/Netskope-SASE%20Firewall-orange?style=flat-square&logo=cloudflare&logoColor=white" alt="Netskope Badge" /> <img src="https://img.shields.io/badge/Cisco-Network%20Security-0c76e2?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Badge" /> <img src="https://img.shields.io/badge/Wazuh-SIEM%20+%20XDR-005f99?style=flat-square&logo=splunk&logoColor=white" alt="Wazuh Badge" />
 
           
 
