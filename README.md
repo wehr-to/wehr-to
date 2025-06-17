@@ -1,4 +1,4 @@
-# <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f409/u1f409_u1f525.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="red dragon"/> About Me
+# <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f409/u1f409_u1f525.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="red dragon"/> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=About+Me" alt="Typing SVG" /></a>
 
 - 👷‍♂️ 1.5 years of professional technical experience, including cybersecurity
 - 🎓 Ranken Technical College graduate in Cloud Computing and Phi Theta Kappa Honors Society Member 
