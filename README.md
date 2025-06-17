@@ -11,7 +11,10 @@
 
 <img align="left" alt="PowerShell" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django Icon" width="26px" style="padding-right:10px; vertical-align: middle;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="Docker Icon" width="26px" style="padding-right:10px; vertical-align: middle;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Icon" width="80px" style="padding-right:10px; vertical-align: middle;" />
+
+
+          
 
 
 
