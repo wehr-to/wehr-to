@@ -1,9 +1,10 @@
 # <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f409/u1f409_u1f525.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="red dragon"/> Tom Wehrman
 
-- Ranken Technical College Graduate in Cloud Computing and Honors Society Member 
-- CCNA, CySA+, and AWS-SAA C03 certified
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=35&pause=1000&color=CA280A&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+%3A)" alt="Typing SVG" /></a>
+🎓 Ranken Technical College Graduate in Cloud Computing and Honors Society Member 
+🛡️ CCNA, CySA+, and AWS-SAA C03 certified
+🔬 Always building security-focused projects, labs, and toolkits
+🎤 Technical communicator
+📜 Targaryen dynasty historian 
 
 # <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4bb/u1f4bb_u1f30c.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="magic laptop"/> Languages and Tools
 
