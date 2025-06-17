@@ -3,9 +3,10 @@
 - 👷‍♂️ 1.5 years of professional technical experience, including cybersecurity
 - 🎓 Ranken Technical College graduate in Cloud Computing and Phi Theta Kappa Honors Society Member 
 - 🛡️ Pursuing CCNA, CySA+, and AWS-SAA (C03) certifications  
-- 🔬 Constantly building security-focused projects, labs, and blue team toolkits  
+- 🔬 Constantly building security-focused projects, labs, and blue team toolkits
+- 🧱 Homelab enthusiast simulating enterprise security with a Netgate 6100 
 - 🎤 Technical communicator & Toastmasters Officer
-- 📜 Targaryen dynasty historian.
+- 📜 Targaryen dynasty historian
 
 # <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4bb/u1f4bb_u1f30c.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="magic laptop"/> Tech Stack
 
