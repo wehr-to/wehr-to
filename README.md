@@ -5,7 +5,7 @@
 - 🛡️ Pursuing CCNA, CySA+, and AWS-SAA certifications  
 - 🔬 Constantly building security-focused projects, labs, and blue team toolkits
 - 🧱 Homelab enthusiast simulating enterprise security with a Netgate 6100
-- 🏆 Delivered highest annual CSAT while identifying and investigating a record number of product bugs in collaboration with engineering
+- 🏆 Annual CSAT award recipient while identifying and investigating a record number of product bugs in collaboration with engineering
 - 🎤 Technical communicator & Toastmasters Officer
 - 📜 Targaryen dynasty historian
 
