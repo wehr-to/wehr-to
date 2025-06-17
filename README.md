@@ -1,11 +1,10 @@
 # <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f409/u1f409_u1f525.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="red dragon"/> Tom Wehrman
 
-- 👷‍♂️ 1.5 years of technical experience including Cybersecurity
-- 🎓 Ranken Technical College Graduate in Cloud Computing and Honors Society Member 
-- 🛡️ Actively pursuing CCNA, CySA+, and AWS-SAA C03 certifications
-- 🔬 Always building security-focused projects, labs, toolkits, and case studies
-- 🎤 Technical communicator and Toastmasters Officer
-- 📜 Targaryen dynasty historian 
+- 👷‍♂️ 1.5 years of hands-on technical experience, including Cybersecurity  
+- 🎓 Ranken Technical College graduate in Cloud Computing and Phi Theta Kappa Honors Society Member 
+- 🛡️ Pursuing CCNA, CySA+, and AWS-SAA (C03) certifications  
+- 🔬 Constantly building security-focused projects, labs, and blue team toolkits  
+- 🎤 Technical communicator & Toastmasters Officer  
 
 # <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4bb/u1f4bb_u1f30c.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="magic laptop"/> Tech Stack
 
