@@ -3,7 +3,7 @@
 - 👷‍♂️ 1.5 years of industry experience including Information Security
 - 🎓 Ranken Technical College Graduate in Cloud Computing and Honors Society Member 
 - 🛡️ Actively pursuing CCNA, CySA+, and AWS-SAA C03 certifications
-- 🔬 Always building security-focused projects, labs, and toolkits
+- 🔬 Always building security-focused projects, labs, toolkits, and case studies
 - 🎤 Technical communicator
 - 📜 Targaryen dynasty historian 
 
