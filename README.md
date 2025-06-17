@@ -1,10 +1,10 @@
 # <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f409/u1f409_u1f525.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="red dragon"/> Tom Wehrman
 
-- 👷‍♂️ 1.5 years of technical experience including cybersecurity
+- 👷‍♂️ 1.5 years of technical experience including Cybersecurity
 - 🎓 Ranken Technical College Graduate in Cloud Computing and Honors Society Member 
 - 🛡️ Actively pursuing CCNA, CySA+, and AWS-SAA C03 certifications
 - 🔬 Always building security-focused projects, labs, toolkits, and case studies
-- 🎤 Technical communicator and ToastMasters Officer
+- 🎤 Technical communicator and Toastmasters Officer
 - 📜 Targaryen dynasty historian 
 
 # <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4bb/u1f4bb_u1f30c.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="magic laptop"/> Tech Stack
@@ -14,6 +14,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash Icon" height="32px" style="padding-right:10px; vertical-align: middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell Icon" height="32px" style="padding-right:10px; vertical-align: middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django Icon" height="32px" style="padding-right:10px; vertical-align: middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask Icon" height="32px" style="padding-right:10px; vertical-align: middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI Icon" height="32px" style="padding-right:10px; vertical-align: middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux Icon" height="32px" style="padding-right:10px; vertical-align: middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" alt="Windows 11 Icon" height="32px" style="padding-right:10px; vertical-align: middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi Icon" height="32px" style="padding-right:10px; vertical-align: middle;" />
