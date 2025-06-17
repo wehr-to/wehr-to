@@ -1,6 +1,6 @@
 # <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f409/u1f409_u1f525.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="red dragon"/> Tom Wehrman
 
-- 👷‍♂️ 1.5 years of hands-on technical experience, including Cybersecurity  
+- 👷‍♂️ 1.5 years of professional technical experience, including cybersecurity
 - 🎓 Ranken Technical College graduate in Cloud Computing and Phi Theta Kappa Honors Society Member 
 - 🛡️ Pursuing CCNA, CySA+, and AWS-SAA (C03) certifications  
 - 🔬 Constantly building security-focused projects, labs, and blue team toolkits  
