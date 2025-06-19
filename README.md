@@ -2,7 +2,7 @@
 - 👷‍♂️ 1.5 years of professional technical experience, including cybersecurity
 - 🎓 Ranken Technical College graduate in Cloud Computing and Phi Theta Kappa Honors Society Member 
 - 🛡️ Pursuing CCNA, CySA+, and AWS Security Specialty Certifications
-- 🔬 Constantly building security-focused projects, labs, and blue team toolkits
+- 🔐 Many security research repos are private, I'm happy to grant access to collaborators on request.
 - 🧱 Homelab enthusiast simulating enterprise security with a Netgate 6100
 - 🏆 Annual CSAT award recipient while identifying and investigating a record number of product bugs in collaboration with engineering
 - 🎤 Technical communicator & Toastmasters Officer
