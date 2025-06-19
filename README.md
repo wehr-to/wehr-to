@@ -1,7 +1,7 @@
 # <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f409/u1f409_u1f525.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="red dragon"/> About Me
 - 👷‍♂️ 1.5 years of professional technical experience, including cybersecurity
 - 🎓 Ranken Technical College graduate in Cloud Computing and Phi Theta Kappa Honors Society Member 
-- 🛡️ Pursuing CCNA, CySA+, and AWS-SAA certifications  
+- 🛡️ Pursuing CCNA, CySA+, and AWS Security Specialty Certifications
 - 🔬 Constantly building security-focused projects, labs, and blue team toolkits
 - 🧱 Homelab enthusiast simulating enterprise security with a Netgate 6100
 - 🏆 Annual CSAT award recipient while identifying and investigating a record number of product bugs in collaboration with engineering
