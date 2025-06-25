@@ -1,7 +1,7 @@
 # <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f409/u1f409_u1f525.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="red dragon"/> About Me
 
--👷‍♂️ 1.5 years of professional technical experience, including cybersecurity 
--🎓 Ranken Technical College Graduate in Cloud Computing & Phi Theta Kappa Honors member
+- 👷‍♂️ 1.5 years of professional technical experience, including cybersecurity 
+- 🎓 Ranken Technical College Graduate in Cloud Computing & Phi Theta Kappa Honors member
 
 🔐 **100+ curated private repos** across:
 - Infrastructure Security & Hardening
