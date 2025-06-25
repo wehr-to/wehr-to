@@ -10,7 +10,7 @@
 - Secure CI/CD and Supply Chain
 - AppSec & Compliance as Code
 
-📂 Available upon request — aligned to role or interview context.
+📂 Available upon request, aligned to role or interview context.
 
 🧱 **Homelab Enthusiast** simulating enterprise security:
 - Netgate 6100 firewall + VLAN segmentation
@@ -20,7 +20,6 @@
 🏆 CSAT Award winner & Record product bug triage with engineering  
 🎤 Technical communicator & Toastmasters Officer  
 📜 Targaryen dynsasty historian  
-
 
 # <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4bb/u1f4bb_u1f30c.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="magic laptop"/> Tech Stack
 
