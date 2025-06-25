@@ -1,12 +1,26 @@
 # <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f409/u1f409_u1f525.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="red dragon"/> About Me
-- 👷‍♂️ 1.5 years of professional technical experience, including cybersecurity
-- 🎓 Ranken Technical College graduate in Cloud Computing and Phi Theta Kappa Honors Society Member 
-- 🛡️ Pursuing CCNA, CySA+, and AWS Security Specialty Certifications
-- 🔐 100+ curated private repos spanning Infra, OffSec, SIEM, AppSec, and Cloud available upon request for relevant conversations or collaboration
-- 🧱 Homelab enthusiast simulating enterprise security with a Netgate 6100
-- 🏆 Annual CSAT award recipient while identifying and investigating a record number of product bugs in collaboration with engineering
-- 🎤 Technical communicator & Toastmasters Officer
-- 📜 Targaryen dynasty historian
+
+👷‍♂️ 1.5 years of professional technical experience, including cybersecurity 
+🎓 Ranken Technical College Graduate in Cloud Computing & Phi Theta Kappa Honors member
+
+🔐 **100+ curated private repos** across:
+- Infrastructure Security & Hardening
+- SIEM, Detection Engineering, Log Pipelines
+- Offensive Security Labs
+- Secure CI/CD and Supply Chain
+- AppSec & Compliance as Code
+
+📂 Available upon request — aligned to role or interview context.
+
+🧱 **Homelab Enthusiast** simulating enterprise security:
+- Netgate 6100 firewall + VLAN segmentation
+- Wazuh SIEM, Suricata IDS, Grafana dashboards
+- Ansible automation, secure provisioning, incident response labs
+
+🏆 CSAT Award winner & Record product bug triage with engineering  
+🎤 Technical communicator & Toastmasters Officer  
+📜 Targaryen dynsasty historian  
+
 
 # <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4bb/u1f4bb_u1f30c.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="magic laptop"/> Tech Stack
 
