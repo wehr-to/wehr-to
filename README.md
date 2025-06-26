@@ -3,7 +3,7 @@
 - 👷‍♂️ 1.5 years of professional technical experience, including cybersecurity 
 - 🎓 Ranken Technical College Graduate in Cloud Computing & Phi Theta Kappa Honors member
 
-🔐 **100+ curated private repos** across:
+🔐 **100+ curated private educational repos** across:
 - Infrastructure Security & Hardening
 - SIEM, Detection Engineering, Log Pipelines
 - Offensive Security Labs
