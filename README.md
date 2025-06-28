@@ -21,7 +21,7 @@
 🎤 Technical communicator & Toastmasters Officer  
 📜 Targaryen dynsasty historian  
 
-# <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4bb/u1f4bb_u1f30c.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="magic laptop"/> Tech Stack
+# <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4bb/u1f4bb_u1f30c.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="magic laptop"/> Things I get hands on with: 
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Icon" height="32px" style="padding-right:10px; vertical-align: middle;" />
