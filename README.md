@@ -9,8 +9,9 @@
 - Offensive Security Labs
 - Secure CI/CD and Supply Chain
 - AppSec & Compliance as Code
+- All available under my organization
 
-📂 Available upon request, for relevant conversations or collaboration
+📂 Available upon request, for relevant conversations or collaboration 
 
 🧱 **Homelab Enthusiast** simulating enterprise security:
 - Netgate 6100 firewall + VLAN segmentation
