@@ -2,7 +2,7 @@
 
 - 👷‍♂️ 1.5 years of professional technical experience, former security intern at Netskope
 - 🎓 Ranken Technical College Graduate in Cloud Computing & Phi Theta Kappa Honors member
-- 🦉 Actively pursuing bachelors at WGU in Cybersecurity and information assurance
+- 🦉 Actively pursuing bachelors at WGU in Cybersecurity and Information Assurance
   
 🔐 **100+ curated private educational repos** across:
 - Infrastructure Security & Hardening
