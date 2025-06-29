@@ -1,6 +1,6 @@
 # <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f409/u1f409_u1f525.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="red dragon"/> About Me
 
-- 👷‍♂️ 1.5 years of professional technical experience, former cybersecurity intern
+- 👷‍♂️ 1.5 years of professional technical experience, former security intern at Netskope
 - 🎓 Ranken Technical College Graduate in Cloud Computing & Phi Theta Kappa Honors member
 - 🦉 Actively pursuing bachelors at WGU in Cybersecurity and information assurance
   
