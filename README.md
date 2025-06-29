@@ -2,7 +2,8 @@
 
 - 👷‍♂️ 1.5 years of professional technical experience, including cybersecurity 
 - 🎓 Ranken Technical College Graduate in Cloud Computing & Phi Theta Kappa Honors member
-
+- 🦉 Actively pursuing bachelors at WGU in Cybersecurity and information assurance
+  
 🔐 **100+ curated private educational repos** across:
 - Infrastructure Security & Hardening
 - SIEM, Detection Engineering, Log Pipelines
