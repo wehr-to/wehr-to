@@ -21,7 +21,7 @@
 
 🏆 CSAT Award winner & Record product bug triage with engineering  
 🎤 Technical communicator & Toastmasters Officer  
-📜 Targaryen dynsasty historian  
+📜 Targaryen dynsasty historian (fun fact)
 
 # <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4bb/u1f4bb_u1f30c.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="magic laptop"/> I get hands on with: 
 
