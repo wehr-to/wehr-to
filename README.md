@@ -19,9 +19,9 @@
 - Wazuh SIEM, Suricata IDS, Grafana dashboards
 - Ansible automation, secure provisioning, incident response labs
 
-🏆 CSAT Award winner 
-🎤 Technical communicator & Toastmasters Officer  
-📜 Targaryen dynasty historian
+- 🏆 CSAT Award winner 
+- 🎤 Technical communicator & Toastmasters Officer  
+- 📜 Targaryen dynasty historian
 
 # <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4bb/u1f4bb_u1f30c.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="magic laptop"/> I get hands on with:
 
