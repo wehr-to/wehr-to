@@ -6,6 +6,7 @@
 - 🦉 Actively pursuing bachelors at WGU in Cybersecurity and Information Assurance
   
 🔐 100+ curated private educational repos across:
+
 - Infrastructure Security & Hardening
 - SIEM, Detection Engineering, Log Pipelines
 - Offensive Security Labs
@@ -15,7 +16,8 @@
 
 📂 Available upon request, for relevant conversations or collaboration 
 
-🧱 **Homelab Enthusiast** simulating enterprise security:
+🧱 Homelab Enthusiast simulating enterprise security:
+
 - Netgate 6100 firewall + VLAN segmentation
 - Wazuh SIEM, Suricata IDS, Grafana dashboards
 - Ansible automation, secure provisioning, incident response labs
