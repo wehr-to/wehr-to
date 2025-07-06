@@ -29,7 +29,7 @@
 </h2>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Icon" height="32px" style="padding-right:10px; vertical-align: middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Icon" height="30px" style="padding-right:10px; vertical-align: middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash Icon" height="32px" style="padding-right:10px; vertical-align: middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell Icon" height="32px" style="padding-right:10px; vertical-align: middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django Icon" height="32px" style="padding-right:10px; vertical-align: middle;" />
