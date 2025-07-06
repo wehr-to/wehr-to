@@ -23,10 +23,7 @@
 🎤 Technical communicator & Toastmasters Officer  
 📜 Targaryen dynasty historian
 
-<h2>
-# <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4bb/u1f4bb_u1f30c.png?fbx" width="26" height="26" style="vertical-align: middle; margin-right: 6px;" alt="magic laptop"/> 
-  I get hands on with:
-</h2>
+# <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4bb/u1f4bb_u1f30c.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="magic laptop"/> I get hands on with:
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
 
