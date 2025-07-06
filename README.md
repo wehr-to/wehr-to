@@ -5,7 +5,7 @@
 - 🎓 Ranken Technical College Graduate in Cloud Computing & Phi Theta Kappa Honors member
 - 🦉 Actively pursuing bachelors at WGU in Cybersecurity and Information Assurance
   
-🔐 **100+ curated private educational repos** across:
+🔐 100+ curated private educational repos across:
 - Infrastructure Security & Hardening
 - SIEM, Detection Engineering, Log Pipelines
 - Offensive Security Labs
