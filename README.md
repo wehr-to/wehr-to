@@ -14,7 +14,7 @@
 - AppSec & Compliance as Code
 - Building mock GitHub org to simulate real-world ops
 
-📂 Available upon request, for relevant conversations or collaboration 
+📂 Available upon request, for relevant conversations or collaboration (refer to master table of contents)
 
 🧱 Homelab Enthusiast simulating enterprise security:
 
