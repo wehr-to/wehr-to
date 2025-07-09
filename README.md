@@ -22,7 +22,7 @@
 - Netgate 6100 firewall + VLAN segmentation
 - Wazuh SIEM, Suricata IDS, Grafana dashboards
 - Ansible automation, secure provisioning, incident response labs
-- LocalAI projects hosted on an RTX 3070 TI
+- Local AI projects hosted on an RTX 3070 TI
 
 🏆 CSAT Award winner through product expertise
 🎤 Technical communicator & Toastmasters Officer  
