@@ -21,7 +21,7 @@
 - Netgate 6100 firewall + VLAN segmentation
 - Wazuh SIEM, Suricata IDS, Grafana dashboards
 - Ansible automation, secure provisioning, incident response labs
-- Locally hosted AI server utilizing an RTX 3070
+- Locally hosted AI projects utilizing an RTX 3070
 
 🏆 CSAT Award winner  
 🎤 Technical communicator & Toastmasters Officer  
