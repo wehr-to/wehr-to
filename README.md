@@ -4,7 +4,8 @@
 👷‍♂️ 1.5 years of professional technical experience, former security intern at Netskope
 🎓 Ranken Technical College Graduate in Cloud Computing & Phi Theta Kappa Honors member
 🦉 Actively pursuing bachelors at WGU in Cybersecurity and Information Assurance
-  
+📚 All repos tied into CCNA, CySA+, and AWS Security Specialty studies
+
 🔐 100+ curated private educational repos across:
 
 - Infrastructure Security & Hardening
@@ -21,9 +22,9 @@
 - Netgate 6100 firewall + VLAN segmentation
 - Wazuh SIEM, Suricata IDS, Grafana dashboards
 - Ansible automation, secure provisioning, incident response labs
-- Locally hosted AI projects utilizing an RTX 3070 TI
+- LocalAI projects hosted on an RTX 3070 TI
 
-🏆 CSAT Award winner  
+🏆 CSAT Award winner through product expertise
 🎤 Technical communicator & Toastmasters Officer  
 📜 Targaryen dynasty historian
 ```
