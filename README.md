@@ -24,7 +24,7 @@
 - Ansible automation, secure provisioning, incident response labs
 - Local AI projects hosted on an RTX 3070 TI
 
-🏆 CSAT Award winner through product expertise
+🏆 CSAT Award winner 
 🎤 Technical communicator & Toastmasters Officer  
 📜 Targaryen dynasty historian
 ```
