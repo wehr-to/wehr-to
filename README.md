@@ -23,6 +23,7 @@
 - Wazuh SIEM, Suricata IDS, Grafana dashboards
 - Ansible automation, secure provisioning, incident response labs
 - Local AI projects hosted on an RTX 3070 TI
+- Flipper Zero Hobbyist
 
 🏆 CSAT Award winner 
 🎤 Technical communicator & Toastmasters Officer  
