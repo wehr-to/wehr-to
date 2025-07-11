@@ -22,6 +22,7 @@
 - Netgate 6100 firewall + VLAN segmentation
 - Wazuh SIEM, Suricata IDS, Grafana dashboards
 - Ansible automation, secure provisioning, incident response labs
+- Active / Passive Firewall setup
 - Local AI projects hosted on an RTX 3070 TI
 
 🐬 Flipper Zero Hobbyist
