@@ -26,7 +26,6 @@
 
 🔋 Hosting AI locally on an RTX 3070 TI
 🐬 Flipper Zero Hobbyist
-🏆 CSAT Award winner 
 🎤 Technical communicator & Toastmasters Officer  
 📜 Targaryen dynasty historian
 ```
