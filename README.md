@@ -21,6 +21,7 @@
 
 🔋 Hosting AI locally on an EVGA RTX 3070 TI
 🐬 Flipper Zero Hobbyist
+🎤 Technical Communicator & Toastmasters Officer
 📜 Targaryen dynasty historian
 ```
 - Where I find inspiration/enhancements: https://www.threads.com/@githubprojects 
