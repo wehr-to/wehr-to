@@ -57,7 +57,7 @@
 # <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4a1/u1f4a1_u1f451.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="visionary idea emoji"/> github stats
 <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=wehr-to&theme=blood-dark&border_radius=5" alt="GitHub Streak" /></a> 
 
-# <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f52e/u1f52e_u1fa90.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="crystal ball with trans flag"/> LeetCode Stats
+# <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f52e/u1f52e_u1fa90.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="crystal ball with trans flag"/> leetcode stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/wehrto?theme=catppuccinMocha&font=Noto%20Sans%20Limbu)
 
 
