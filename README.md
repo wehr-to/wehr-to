@@ -1,4 +1,4 @@
-# <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f409/u1f409_u1f525.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="red dragon"/> About Me
+# <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f409/u1f409_u1f525.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="red dragon"/> about me
 
 ```
 🔐 100+ curated private educational repos across:
@@ -26,7 +26,7 @@
 ```
 - Where I find inspiration/enhancements: https://www.threads.com/@githubprojects 
 
-# <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4bb/u1f4bb_u1f30c.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="magic laptop"/> I get hands on with:
+# <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4bb/u1f4bb_u1f30c.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="magic laptop"/> i get hands on with:
 
 <p style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
 
@@ -54,7 +54,7 @@
 
 <img src="https://img.shields.io/badge/Netskope-SASE%20Firewall-orange?style=flat-square" alt="Netskope Badge" /> <img src="https://img.shields.io/badge/Cisco-Network%20Security-0c76e2?style=flat-square" alt="Cisco Badge" /> <img src="https://img.shields.io/badge/Wazuh-SIEM%20+%20XDR-005f99?style=flat-square" alt="Wazuh Badge" /> <img src="https://img.shields.io/badge/Suricata-Intrusion%20Detection-orange?style=flat-square" alt="Suricata Badge" /> <img src="https://img.shields.io/badge/Wireshark-Network%20Analyzer-0e6ba8?style=flat-square" alt="Wireshark Badge" /> <img src="https://img.shields.io/badge/VMware-Virtualization-607078?style=flat-square" alt="VMware Badge" /> <img src="https://img.shields.io/badge/Splunk-%20Monitoring-ffc0cb?style=flat-square" alt="Splunk Badge" />
 
-# <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4a1/u1f4a1_u1f451.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="visionary idea emoji"/> GitHub Stats
+# <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4a1/u1f4a1_u1f451.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="visionary idea emoji"/> github stats
 <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=wehr-to&theme=blood-dark&border_radius=5" alt="GitHub Streak" /></a> 
 
 # <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f52e/u1f52e_u1fa90.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="crystal ball with trans flag"/> LeetCode Stats
