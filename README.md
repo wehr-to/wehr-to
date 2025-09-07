@@ -32,7 +32,6 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Icon" style="height: 32px; width: auto; max-width: 100px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash Icon" style="height: 32px; width: auto; max-width: 100px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell Icon" style="height: 32px; width: auto; max-width: 100px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux Icon" style="height: 32px; width: auto; max-width: 100px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" alt="Windows 11 Icon" style="height: 32px; width: auto; max-width: 100px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi Icon" style="height: 32px; width: auto; max-width: 100px;">
