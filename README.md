@@ -19,7 +19,6 @@
 - Ansible automation, secure provisioning, incident response labs
 - Active / Passive Firewall setup
 
-🎮 DS ROM Modifier Since 2010
 🔋 Hosting AI locally on an EVGA RTX 3070 TI
 🐬 Flipper Zero Hobbyist
 🎤 Technical Communicator & Toastmasters Officer
