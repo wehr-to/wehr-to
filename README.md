@@ -12,12 +12,13 @@
 
 📂 Available upon request, for relevant conversations or collaboration (refer to master table of contents)
 
-🧱 Homelab Enthusiast simulating enterprise security:
+🧱 # Homelab Security Lab
 
-- Netgate 6100 firewall + VLAN segmentation
-- Wazuh SIEM, Suricata IDS, Grafana dashboards
-- Ansible automation, secure provisioning, incident response labs
-- Active / Passive Firewall setup
+Homelab project focused on simulating enterprise security architecture and operations.
+- Netgate 6100 firewall with VLAN segmentation  
+- Wazuh SIEM, Suricata IDS, and Grafana dashboards  
+- Ansible-driven automation, secure provisioning, and incident response scenarios  
+- Active/Passive firewall configuration for redundancy and failover testing  
 
 🔋 Hosting AI locally on an EVGA RTX 3070 TI
 🐬 Flipper Zero Hobbyist
