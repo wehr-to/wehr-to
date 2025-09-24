@@ -43,7 +43,7 @@ Homelab project focused on simulating enterprise security architecture and opera
 
 </p>
 
-<img src="https://img.shields.io/badge/Netskope-SASE%20Firewall-orange?style=flat-square" alt="Netskope Badge" /> <img src="https://img.shields.io/badge/Cisco-Network%20Security-0c76e2?style=flat-square" alt="Cisco Badge" /> <img src="https://img.shields.io/badge/Wazuh-SIEM%20+%20XDR-005f99?style=flat-square" alt="Wazuh Badge" /> <img src="https://img.shields.io/badge/Suricata-Intrusion%20Detection-orange?style=flat-square" alt="Suricata Badge" /> <img src="https://img.shields.io/badge/Wireshark-Network%20Analyzer-0e6ba8?style=flat-square" alt="Wireshark Badge" /> 
+<img src="https://img.shields.io/badge/Cisco-Network%20Security-0c76e2?style=flat-square" alt="Cisco Badge" /> <img src="https://img.shields.io/badge/Wazuh-SIEM%20+%20XDR-005f99?style=flat-square" alt="Wazuh Badge" /> <img src="https://img.shields.io/badge/Suricata-Intrusion%20Detection-orange?style=flat-square" alt="Suricata Badge" /> <img src="https://img.shields.io/badge/Wireshark-Network%20Analyzer-0e6ba8?style=flat-square" alt="Wireshark Badge" /> 
 
 # <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4a1/u1f4a1_u1f451.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="visionary idea emoji"/> github stats
 <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=wehr-to&theme=blood-dark&border_radius=5" alt="GitHub Streak" /></a> 
