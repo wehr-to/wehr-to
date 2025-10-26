@@ -10,8 +10,6 @@
 - AppSec & Compliance as Code
 - Building mock GitHub org to simulate real-world ops
 
-📂 Available upon request, for relevant conversations or collaboration (refer to master table of contents)
-
 🧱 # Homelab Security Lab
 
 Homelab project focused on simulating enterprise security architecture and operations.
