@@ -20,7 +20,6 @@ Homelab project focused on simulating enterprise security architecture and opera
 
 🔋 Hosting AI locally on an EVGA RTX 3070 TI
 🐬 Flipper Zero Hobbyist
-🎤 Technical Communicator & Toastmasters Officer
 🐧 I use arch btw
 ```
 - Where I find inspiration/enhancements: https://www.threads.com/@githubprojects 
