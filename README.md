@@ -1,7 +1,7 @@
 # <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f409/u1f409_u1f525.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="red dragon"/> about me
 
 ```
-🔐 trying to educate myself across: 
+trying to educate myself across: 
 
 - Infrastructure Security & Hardening
 - SIEM, Detection Engineering, Log Pipelines
@@ -10,7 +10,7 @@
 - AppSec & Compliance as Code
 - Building mock GitHub org to simulate real-world ops
 
-🧱 # Homelab Security Lab
+# Homelab Security Lab
 
 Homelab project focused on simulating enterprise security architecture and operations.
 - Netgate 6100 firewall with VLAN segmentation  
@@ -18,9 +18,9 @@ Homelab project focused on simulating enterprise security architecture and opera
 - Ansible-driven automation, secure provisioning, and incident response scenarios  
 - Active/Passive firewall configuration for redundancy and failover testing  
 
-🔋 Hosting AI locally on an EVGA RTX 3070 TI
-🐬 Flipper Zero Hobbyist
-🐧 I use arch btw
+- Hosting AI locally on an EVGA RTX 3070 TI
+- Flipper Zero Hobbyist
+- I use arch btw
 ```
 - Where I find inspiration/enhancements: https://www.threads.com/@githubprojects 
 
