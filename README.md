@@ -8,7 +8,6 @@ trying to educate myself across:
 - Offensive Security Labs
 - Secure CI/CD and Supply Chain
 - AppSec & Compliance as Code
-- Building mock GitHub org to simulate real-world ops
 
 # Homelab Security Lab
 
@@ -17,12 +16,8 @@ Homelab project focused on simulating enterprise security architecture and opera
 - Wazuh SIEM, Suricata IDS, and Grafana dashboards  
 - Ansible-driven automation, secure provisioning, and incident response scenarios  
 - Active/Passive firewall configuration for redundancy and failover testing  
-
-- Hosting AI locally on an EVGA RTX 3070 TI
-- Flipper Zero Hobbyist
-- I use arch btw
 ```
-- Where I find inspiration/enhancements: https://www.threads.com/@githubprojects 
+
 
 # <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4bb/u1f4bb_u1f30c.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="magic laptop"/> i get hands on with:
 
