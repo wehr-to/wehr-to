@@ -1,4 +1,4 @@
-# <img src="/mnt/data/rainbow-comet.png" width="26" height="26" style="vertical-align: middle;" alt="rainbow comet"/> about me
+# about me
 
 ```
 trying to educate myself across: 
@@ -19,7 +19,7 @@ Homelab project focused on simulating enterprise security architecture and opera
 ```
 
 
-# <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4bb/u1f4bb_u1f30c.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="magic laptop"/> i get hands on with:
+# i get hands on with:
 
 <p style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
 
@@ -38,10 +38,10 @@ Homelab project focused on simulating enterprise security architecture and opera
 
 <img src="https://img.shields.io/badge/Cisco-Network%20Security-0c76e2?style=flat-square" alt="Cisco Badge" /> <img src="https://img.shields.io/badge/Wazuh-SIEM%20+%20XDR-005f99?style=flat-square" alt="Wazuh Badge" /> <img src="https://img.shields.io/badge/Suricata-Intrusion%20Detection-orange?style=flat-square" alt="Suricata Badge" /> <img src="https://img.shields.io/badge/Wireshark-Network%20Analyzer-0e6ba8?style=flat-square" alt="Wireshark Badge" /> 
 
-# <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4a1/u1f4a1_u1f451.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="visionary idea emoji"/> github stats
+# github stats
 <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=wehr-to&theme=blood-dark&border_radius=5" alt="GitHub Streak" /></a> 
 
-# <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f52e/u1f52e_u1fa90.png?fbx" width="26" height="26" style="vertical-align: middle;" alt="crystal ball with trans flag"/> leetcode stats
+# leetcode stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/wehrto?theme=catppuccinMocha&font=Noto%20Sans%20Limbu)
 
 
