@@ -1,4 +1,4 @@
-# # <img src="/mnt/data/06775e5f-5d58-47e9-a51a-0d0f7413fdd1.png" width="26" height="26" style="vertical-align: middle;" alt="rainbow comet"/> about me
+# <img src="/mnt/data/06775e5f-5d58-47e9-a51a-0d0f7413fdd1.png" width="26" height="26" style="vertical-align: middle;" alt="rainbow comet"/> about me
 
 ```
 trying to educate myself across: 
