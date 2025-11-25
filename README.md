@@ -3,19 +3,19 @@
 ```
 trying to educate myself across: 
 
-- Infrastructure Security & Hardening
-- SIEM, Detection Engineering, Log Pipelines
-- Offensive Security Labs
-- Secure CI/CD and Supply Chain
-- AppSec & Compliance as Code
+- infrastructure security and hardening
+- siem, detection engineering, log pipelines
+- offensive security through labs
+- secure ci/cd and supply chain
+- appsec and compliance as code
 
-# Homelab Security Lab
+# homelab security lab
 
-Homelab project focused on simulating enterprise security architecture and operations.
-- Netgate 6100 firewall with VLAN segmentation  
-- Wazuh SIEM, Suricata IDS, and Grafana dashboards  
-- Ansible-driven automation, secure provisioning, and incident response scenarios  
-- Active/Passive firewall configuration for redundancy and failover testing  
+homelab project focused on simulating enterprise security architecture and operations.
+- netgate 6100 firewall with vlan segmentation  
+- wazuh sie,, suricata ids, and grafana dashboards  
+- ansible-driven automation, secure provisioning, and incident response scenarios  
+- active/passive firewall configuration for redundancy and failover testing  
 ```
 
 
