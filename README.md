@@ -43,7 +43,7 @@ homelab project focused on simulating enterprise security architecture and opera
 # leetcode stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/wehrto?theme=catppuccinMocha&font=Noto%20Sans%20Limbu)
 
-# daily art 
+# daily art [![Daily AIC Art](https://github.com/wehr-to/wehr-to/actions/workflows/daily-art.yml/badge.svg)](https://github.com/wehr-to/wehr-to/actions/workflows/daily-art.yml)
 <!-- AIC_DAILY_ART_START -->
 Loading today's artwork…
 <!-- AIC_DAILY_ART_END -->
