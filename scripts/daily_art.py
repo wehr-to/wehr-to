@@ -28,21 +28,28 @@ def get_random_public_domain_artwork():
     resp.raise_for_status()
     data = resp.json()
 
-    total_pages = data["pagination"]["total_pages"]
-    random_page = random.randint(1, total_pages)
+    pagination = data.get("pagination", {})
+    total_pages = pagination.get("total_pages", 1)
+    if total_pages < 1:
+        raise RuntimeError("No public-domain artworks found from AIC API.")
 
+    random_page = random.randint(1, total_pages)
     params_page = dict(params_base)
     params_page["page"] = random_page
 
     resp = requests.get(AIC_SEARCH_URL, params=params_page, timeout=20)
     resp.raise_for_status()
-    artworks = resp.json().get("data", [])
+    page_data = resp.json()
+    artworks = page_data.get("data", [])
+
+    if not artworks:
+        raise RuntimeError("Random page returned no artworks.")
 
     for art in artworks:
         if art.get("image_id"):
             return art
 
-    raise RuntimeError("No artworks with valid image_id found on random page.")
+    raise RuntimeError("No artworks with image_id on this random page.")
 
 
 def make_image_url(image_id: str) -> str:
@@ -54,61 +61,80 @@ def make_web_url(art_id: int) -> str:
 
 
 def build_markdown_block(art: dict) -> str:
-    today = datetime.utcnow().strftime("%Y-%m-%d")
+    today_str = datetime.utcnow().strftime("%Y-%m-%d")
 
+    art_id = art.get("id")
     title = art.get("title") or "Untitled"
-    artist = art.get("artist_display") or "Unknown artist"
-    date_display = art.get("date_display") or "Unknown date"
-    art_id = art["id"]
-    image_url = make_image_url(art["image_id"])
+    artist_display = art.get("artist_display") or "Unknown artist"
+    date_display = art.get("date_display") or "Date unknown"
+    image_id = art.get("image_id")
+
+    image_url = make_image_url(image_id)
     web_url = make_web_url(art_id)
 
-    return textwrap.dedent(
+    block = textwrap.dedent(
         f"""
-        **Date (UTC): {today}**
+        **Date (UTC): {today_str}**
 
         [![{title}]({image_url})]({web_url})
 
         **{title}**  
-        {artist}  
+        {artist_display}  
         {date_display}  
 
         Source: [Art Institute of Chicago]({web_url})
         """
     ).strip()
 
+    return block
 
-def update_readme(new_block: str):
+
+def update_readme_section(new_block: str) -> None:
+    if not os.path.exists(README_PATH):
+        raise FileNotFoundError(f"README not found at {README_PATH}")
+
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
 
     if MARKER_START not in content or MARKER_END not in content:
-        raise RuntimeError("Daily Art markers missing in README.md")
+        raise RuntimeError(
+            "Markers not found in README. "
+            "Ensure both AIC markers are present."
+        )
 
-    before, _, rest = content.partition(MARKER_START)
-    _, _, after = rest.partition(MARKER_END)
+    before, _start, rest = content.partition(MARKER_START)
+    _middle, _end, after = rest.partition(MARKER_END)
 
-    updated = (
-        before
-        + MARKER_START
+    replacement = (
+        MARKER_START
         + "\n\n"
         + new_block
         + "\n\n"
         + MARKER_END
-        + after
     )
 
-    with open(README_PATH, "w", encoding="utf-8") as f:
-        f.write(updated)
+    new_content = before + replacement + after
+
+    if new_content != content:
+        with open(README_PATH, "w", encoding="utf-8") as f:
+            f.write(new_content)
+    else:
+        print("README unchanged; nothing to write.")
 
 
 def main():
     try:
         art = get_random_public_domain_artwork()
-        block = build_markdown_block(art)
-        update_readme(block)
-    except Exception as e:
-        print("Error:", e)
+    except Exception as exc:
+        print(f"Error fetching artwork from AIC API: {exc}")
+        return
+
+    block = build_markdown_block(art)
+
+    try:
+        update_readme_section(block)
+    except Exception as exc:
+        print(f"Error updating README: {exc}")
 
 
 if __name__ == "__main__":
