@@ -13,7 +13,7 @@ trying to educate myself across:
 
 homelab project focused on simulating enterprise security architecture and operations.
 - netgate 6100 firewall with vlan segmentation  
-- wazuh sie,, suricata ids, and grafana dashboards  
+- wazuh siem, suricata ids, and grafana dashboards  
 - ansible-driven automation, secure provisioning, and incident response scenarios  
 - active/passive firewall configuration for redundancy and failover testing  
 ```
