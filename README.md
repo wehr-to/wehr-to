@@ -29,7 +29,6 @@ homelab project focused on simulating enterprise security architecture and opera
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" alt="Windows 11 Icon" style="height: 32px; width: auto; max-width: 100px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi Icon" style="height: 32px; width: auto; max-width: 100px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git Icon" style="height: 32px; width: auto; max-width: 100px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code Icon" style="height: 32px; width: auto; max-width: 100px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker Icon" style="height: 32px; width: auto; max-width: 100px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pfsense/pfsense-original.svg" alt="pfSense Icon" style="height: 32px; width: auto; max-width: 100px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" alt="Grafana Icon" style="height: 32px; width: auto; max-width: 100px;">
@@ -44,4 +43,4 @@ homelab project focused on simulating enterprise security architecture and opera
 # leetcode stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/wehrto?theme=catppuccinMocha&font=Noto%20Sans%20Limbu)
 
-
+# daily art 
