@@ -45,5 +45,5 @@ homelab project focused on simulating enterprise security architecture and opera
 
 # daily art [![Daily AIC Art](https://github.com/wehr-to/wehr-to/actions/workflows/daily-art.yml/badge.svg)](https://github.com/wehr-to/wehr-to/actions/workflows/daily-art.yml)
 <!-- AIC_DAILY_ART_START -->
-Loading today's artwork…
+Loading today's artwork
 <!-- AIC_DAILY_ART_END -->
