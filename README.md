@@ -15,7 +15,8 @@ homelab project focused on simulating enterprise security architecture and opera
 - netgate 6100 firewall with vlan segmentation  
 - wazuh siem, suricata ids, and grafana dashboards  
 - ansible-driven automation, secure provisioning, and incident response scenarios  
-- active/passive firewall configuration for redundancy and failover testing  
+- active/passive firewall configuration for redundancy and failover testing
+- NAS integration for log storage
 ```
 
 
