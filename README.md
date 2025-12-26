@@ -37,9 +37,6 @@ homelab project focused on simulating enterprise security architecture and opera
 
 <img src="https://img.shields.io/badge/Cisco-Network%20Security-0c76e2?style=flat-square" alt="Cisco Badge" /> <img src="https://img.shields.io/badge/Wazuh-SIEM%20+%20XDR-005f99?style=flat-square" alt="Wazuh Badge" /> <img src="https://img.shields.io/badge/Suricata-Intrusion%20Detection-orange?style=flat-square" alt="Suricata Badge" /> <img src="https://img.shields.io/badge/Wireshark-Network%20Analyzer-0e6ba8?style=flat-square" alt="Wireshark Badge" /> 
 
-# github stats
-<a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=wehr-to&theme=blood-dark&border_radius=5" alt="GitHub Streak" /></a> 
-
 # leetcode stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/wehrto?theme=catppuccinMocha&font=Noto%20Sans%20Limbu)
 
