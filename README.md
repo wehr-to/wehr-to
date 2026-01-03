@@ -9,7 +9,7 @@ trying to educate myself across:
 - secure ci/cd and supply chain
 - appsec and compliance as code
 
-# homelab security lab
+# homelab security 
 
 homelab project focused on simulating enterprise security architecture and operations.
 - netgate 6100 firewall with vlan segmentation  
