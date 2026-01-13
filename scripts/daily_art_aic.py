@@ -2,10 +2,10 @@
 
 import os
 import random
-import textwrap
 from datetime import datetime
 
 import requests
+
 
 AIC_SEARCH_URL = "https://api.artic.edu/api/v1/artworks/search"
 IIIF_BASE = "https://www.artic.edu/iiif/2"
@@ -17,39 +17,35 @@ MARKER_START = "<!-- AIC_DAILY_ART_START -->"
 MARKER_END = "<!-- AIC_DAILY_ART_END -->"
 
 
-def get_random_public_domain_artwork():
-    params_base = {
+def get_random_public_domain_artwork() -> dict:
+    base_params = {
         "query[term][is_public_domain]": "true",
         "fields": "id,title,artist_display,date_display,image_id",
         "limit": 1,
     }
 
-    resp = requests.get(AIC_SEARCH_URL, params=params_base, timeout=20)
-    resp.raise_for_status()
-    data = resp.json()
+    r = requests.get(AIC_SEARCH_URL, params=base_params, timeout=20)
+    r.raise_for_status()
+    meta = r.json().get("pagination", {})
 
-    pagination = data.get("pagination", {})
-    total_pages = pagination.get("total_pages", 1)
+    total_pages = meta.get("total_pages", 1)
     if total_pages < 1:
-        raise RuntimeError("No public-domain artworks found from AIC API.")
+        raise RuntimeError("No public domain artworks returned by API")
 
-    random_page = random.randint(1, total_pages)
-    params_page = dict(params_base)
-    params_page["page"] = random_page
+    page = random.randint(1, total_pages)
+    params = dict(base_params)
+    params["page"] = page
 
-    resp = requests.get(AIC_SEARCH_URL, params=params_page, timeout=20)
-    resp.raise_for_status()
-    page_data = resp.json()
-    artworks = page_data.get("data", [])
+    r = requests.get(AIC_SEARCH_URL, params=params, timeout=20)
+    r.raise_for_status()
 
-    if not artworks:
-        raise RuntimeError("Random page returned no artworks.")
+    data = r.json().get("data", [])
 
-    for art in artworks:
+    for art in data:
         if art.get("image_id"):
             return art
 
-    raise RuntimeError("No artworks with image_id on this random page.")
+    raise RuntimeError("No artwork with image_id found on random page")
 
 
 def make_image_url(image_id: str) -> str:
@@ -61,32 +57,25 @@ def make_web_url(art_id: int) -> str:
 
 
 def build_markdown_block(art: dict) -> str:
-    today_str = datetime.utcnow().strftime("%Y-%m-%d")
+    today = datetime.utcnow().strftime("%Y-%m-%d")
 
     art_id = art.get("id")
     title = art.get("title") or "Untitled"
-    artist_display = art.get("artist_display") or "Unknown artist"
-    date_display = art.get("date_display") or "Date unknown"
+    artist = art.get("artist_display") or "Unknown artist"
+    date = art.get("date_display") or "Date unknown"
     image_id = art.get("image_id")
 
     image_url = make_image_url(image_id)
     web_url = make_web_url(art_id)
 
-    block = textwrap.dedent(
-        f"""
-        **Date (UTC): {today_str}**
-
-        [![{title}]({image_url})]({web_url})
-
-        **{title}**  
-        {artist_display}  
-        {date_display}  
-
-        Source: [Art Institute of Chicago]({web_url})
-        """
-    ).strip()
-
-    return block
+    return (
+        f"**Date (UTC): {today}**\n\n"
+        f"[![{title}]({image_url})]({web_url})\n\n"
+        f"**{title}**  \n"
+        f"{artist}  \n"
+        f"{date}  \n\n"
+        f"Source: [Art Institute of Chicago]({web_url})"
+    )
 
 
 def update_readme_section(new_block: str) -> None:
@@ -97,13 +86,10 @@ def update_readme_section(new_block: str) -> None:
         content = f.read()
 
     if MARKER_START not in content or MARKER_END not in content:
-        raise RuntimeError(
-            "Markers not found in README. "
-            "Ensure both AIC markers are present."
-        )
+        raise RuntimeError("AIC markers not found in README")
 
-    before, _start, rest = content.partition(MARKER_START)
-    _middle, _end, after = rest.partition(MARKER_END)
+    before, _, rest = content.partition(MARKER_START)
+    _, _, after = rest.partition(MARKER_END)
 
     replacement = (
         MARKER_START
@@ -118,24 +104,23 @@ def update_readme_section(new_block: str) -> None:
     if new_content != content:
         with open(README_PATH, "w", encoding="utf-8") as f:
             f.write(new_content)
-    else:
-        print("README unchanged; nothing to write.")
 
 
-def main():
+def main() -> None:
     try:
         art = get_random_public_domain_artwork()
-    except Exception as exc:
-        print(f"Error fetching artwork from AIC API: {exc}")
+    except Exception as e:
+        print(f"Failed to fetch artwork: {e}")
         return
 
     block = build_markdown_block(art)
 
     try:
         update_readme_section(block)
-    except Exception as exc:
-        print(f"Error updating README: {exc}")
+    except Exception as e:
+        print(f"Failed to update README: {e}")
 
 
 if __name__ == "__main__":
     main()
+
