@@ -1,27 +1,3 @@
-# about me
-
-```
-trying to educate myself across: 
-
-- infrastructure security and hardening
-- siem, detection engineering, log pipelines
-- offensive security through labs
-- secure ci/cd and supply chain
-- appsec and compliance as code
-
-# homelab security 
-
-homelab project focused on simulating enterprise security architecture and operations.
-- netgate 6100 firewall with vlan segmentation  
-- wazuh siem, suricata ids, and grafana dashboards  
-- ansible-driven automation, secure provisioning, and incident response scenarios  
-- active/passive firewall configuration for redundancy and failover testing
-- NAS integration for log storage
-```
-
-# leetcode stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/wehrto?theme=catppuccinMocha&font=Noto%20Sans%20Limbu)
-
 # daily art [![Daily AIC Art](https://github.com/wehr-to/wehr-to/actions/workflows/daily-art.yml/badge.svg)](https://github.com/wehr-to/wehr-to/actions/workflows/daily-art.yml)
 <!-- AIC_DAILY_ART_START -->
 
