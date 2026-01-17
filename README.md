@@ -1,7 +1,2 @@
-## Favorite Artwork
-
-<p align="center">
-  <img src="assets/favorite-art.jpg" alt="Favorite artwork" width="400">
-</p>
-
+![Favorite artwork](https://raw.githubusercontent.com/wehr-to/wehr-to/main/assets/favorite-artwork.jpg
 
