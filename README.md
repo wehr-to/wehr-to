@@ -1,3 +1,3 @@
-![Favorite artwork](https://raw.githubusercontent.com/wehr-to/wehr-to/main/assets/favorite-artwork.jpg)
+![Favorite artwork](https://raw.githubusercontent.com/wehr-to/wehr-to/main/assets/Accolade_by_Edmund_Blair_Leighton.jpg)
 
-#### Rather than random buzzwords here is a Victorian Romanticism painting
+#### instead of random buzzwords here is a victorian romanticism painting
